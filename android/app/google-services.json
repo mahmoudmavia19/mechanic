@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905844914008",
+    "project_id": "m2chanic",
+    "storage_bucket": "m2chanic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905844914008:android:5eb2ad033635fd10da572d",
+        "android_client_info": {
+          "package_name": "com.example.mechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905844914008-lkouvc0sf89hqk3o34jqvh8pcc3tqk7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYVQSWENsbrWA4y1kj0yZA18VZ9dhq1XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905844914008-lkouvc0sf89hqk3o34jqvh8pcc3tqk7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
